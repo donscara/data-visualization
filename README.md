@@ -1,4 +1,4 @@
-# data-visualization
+# Data-Visualization
 Data Visualization Projects
 4 Lab assignments:
 1) Use of Python in regard to data visualization, analyze different datasets, explore common IDEs that can be used with Python environment to set up the underlying architecture, and to visualize data in different ways.
